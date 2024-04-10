@@ -1,4 +1,4 @@
-
+//
 object olivia {
 	var concentracion = 6
 	
